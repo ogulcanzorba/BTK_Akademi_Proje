@@ -1,0 +1,21 @@
+{% extends "master.html" %}
+
+{% block title %}
+  My Tennis Club - List of all members
+{% endblock %}
+
+
+{% block content %}
+  <div class="mycard">
+    <h1>Lectures</h1>
+    <ul>
+      {% for x in lectures %}
+        <li onclick="window.location = 'details/{{ x.id }}'">{{ x.lecture_name }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}
+
+
+
+   <h2><p>Click here to go to <a href = "/">home</a> page</p></h2>
