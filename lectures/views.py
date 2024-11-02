@@ -2,6 +2,8 @@ from django.http import HttpResponse
 from django.template import loader
 from .models import Lectures
 from django.shortcuts import render, get_object_or_404
+from .utils import generate_response
+
 
 def home(request):
   lectures = Lectures.objects.all().values()
@@ -20,3 +22,13 @@ def lecture_detail(request, lecture_name):
 def main(request):
   template = loader.get_template('main.html')
   return HttpResponse(template.render())
+
+
+def chat_with_model(request):
+    user_input = request.GET.get("input", "")
+    response = ""
+
+    if user_input:
+        response = generate_response(user_input)
+
+    return render(request, "chat.html", {"response": response, "user_input": user_input})

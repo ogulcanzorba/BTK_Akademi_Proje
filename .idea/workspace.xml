@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b10efc0-01cb-4d73-9767-a930415c4b1b" name="Changes" comment="Main file">
-      <change afterPath="$PROJECT_DIR$/lectures/templates/data-structures-and-algorithms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/templates/chat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/templates/details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/templates/home_page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/templates/master.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/templates/data-structures-and-algorithms.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/templates/data-structures-and-algorithms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lectures/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lectures/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/views.py" afterDir="false" />
     </list>
@@ -27,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -123,7 +121,7 @@
       <workItem from="1730531075938" duration="74000" />
       <workItem from="1730537344025" duration="2393000" />
       <workItem from="1730565418611" duration="2217000" />
-      <workItem from="1730567919308" duration="4357000" />
+      <workItem from="1730567919308" duration="9977000" />
     </task>
     <task id="LOCAL-00001" summary="Main file">
       <option name="closed" value="true" />
