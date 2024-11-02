@@ -1,7 +1,7 @@
 {% extends "master.html" %}
 
 {% block title %}
-  My Tennis Club - List of all members
+  My Lecture Tutor
 {% endblock %}
 
 
@@ -10,11 +10,13 @@
     <h1>Lectures</h1>
     <ul>
       {% for x in lectures %}
-        <li onclick="window.location = 'details/{{ x.id }}'">{{ x.lecture_name }}</li>
+        <li onclick="window.location = '/home/{{ x.slug }}/'">{{ x.lecture_name }}</li>
       {% endfor %}
     </ul>
   </div>
 {% endblock %}
+
+
 
 
 

@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b10efc0-01cb-4d73-9767-a930415c4b1b" name="Changes" comment="Main file">
+      <change afterPath="$PROJECT_DIR$/lectures/templates/data-structures-and-algorithms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/register.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/templates/details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/templates/home_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/templates/master.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Django Server.Btk_WS.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "com.google.cloudcode.ide_session_index": "20241102_0000",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ogulc_n6a3w/Documents/GitHub/BTK_Akademi_Proje/myglobalstaticfiles",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Django Server.Btk_WS.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20241102_0000&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ogulc_n6a3w/Documents/GitHub/BTK_Akademi_Proje/myglobalstaticfiles&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ogulc_n6a3w\Documents\GitHub\BTK_Akademi_Proje\myglobalstaticfiles" />
@@ -119,6 +123,7 @@
       <workItem from="1730531075938" duration="74000" />
       <workItem from="1730537344025" duration="2393000" />
       <workItem from="1730565418611" duration="2217000" />
+      <workItem from="1730567919308" duration="4357000" />
     </task>
     <task id="LOCAL-00001" summary="Main file">
       <option name="closed" value="true" />
