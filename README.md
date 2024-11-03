@@ -1,4 +1,5 @@
 **Proje Tanıtımı: AI Tutor**
+
 Günümüzde öğrencilerin eğitim süreçlerinde bireysel destek alarak bilgiye hızlı ve doğru bir şekilde ulaşma ihtiyaçları giderek artmaktadır. Bu ihtiyaç doğrultusunda, yapay zeka destekli sistemler, öğrencilerin eğitimdeki başarılarını artırmak ve öğrenme süreçlerini daha verimli hale getirmek için ideal bir çözüm sunmaktadır.
 
 Bu projede, öğrencilerin sınav hazırlıklarını ve öğrenme süreçlerini destekleyen bir yapay zeka modeli geliştirme görevini üstlendik. Model, öğrencilerin belirli dersler hakkında soru sorabileceği ve sınavlarına hazırlanabilecekleri bir AI Tutor olarak işlev görecektir. Bu doğrultuda, modelin derinlemesine bir eğitim sürecinden geçirilmesi ve bilgiye hızlıca yanıt verebilecek kapasiteye sahip olması gerekmektedir.
