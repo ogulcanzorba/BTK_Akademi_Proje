@@ -1,10 +1,10 @@
 # utils.py
 import os
 import google.generativeai as genai
+from django.conf import settings
 
 # Configure API Key
-genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
-
+genai.configure(api_key=settings.GOOGLE_API_KEY)
 # Define a function to interact with the generative model
 
 def generate_response(user_input):
